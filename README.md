@@ -4,7 +4,7 @@ This project implements an object detection pipeline using **YOLOv8** and **VisD
 
 ## Features
 
-- Trained YOLOv8 model on custom EO/IR dataset
+- Trained YOLOv8 and VisDrone model on custom EO/IR dataset
 - 35+ custom classes including vehicles, people, terrains, and structures
 - Distance and height estimation from drone to target
 - Support for both RGB and thermal video input
